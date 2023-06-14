@@ -1,0 +1,4 @@
+How to return multiple value from function
+
+ans:-> 1.call by referance
+       2.call by value
